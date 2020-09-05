@@ -5,7 +5,7 @@ Training data for Time Contrastive Network experiments
 
 To train a contrastive network, you need alike and dissimilar examples.
 
-Here are some I am releasing from a work in progress, (Dobot TCN)[https://github.com/tlack/dobot-tcn/].
+Here are some I am releasing from a work in progress, [Dobot TCN](https://github.com/tlack/dobot-tcn/).
 
 #### v2/ dataset
 
@@ -40,7 +40,7 @@ be the same in this regard. (The unreleased `v1/` was improperly controlled.)
 
 ## why
 
-Members of the (AI Hackers Discord server)[https://discord.gg/zErMBh] requested access to the training 
+Members of the [AI Hackers Discord server](https://discord.gg/zErMBh) requested access to the training 
 data I was attempting to use for my experiments
 
 ## how to use
