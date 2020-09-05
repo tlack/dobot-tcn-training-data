@@ -1,0 +1,1 @@
+{"from": {"1": -39}, "to": {"1": 7}, "goal": {"1": 8}, "exp_config": {"SWEEP_RANGE": 90, "AXIS_REPS": 2, "N_EXAMPLES": 200, "JOINT_RANGES": {"1": [-60, 60], "2": [-60, 60]}}}
